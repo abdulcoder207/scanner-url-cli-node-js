@@ -28,7 +28,7 @@ Follow these steps to run the URL Scanner CLI on your machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/abdulcoder207/url-scanner.git
+git clone https://github.com/abdulcoder207/scanner-url-cli-node-js.git
 cd url-scanner
 ```
 ### 2. Install Dependencies
